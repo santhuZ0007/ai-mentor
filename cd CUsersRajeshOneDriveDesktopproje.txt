@@ -1,0 +1,1 @@
+ cd "C:\Users\Rajesh\OneDrive\Desktop\project-root\client"
